@@ -1,12 +1,12 @@
-# Jedis Calculator
+# LEAP-YEAR
 ### By Fridah Kalee ,8/03/2022
 ## Table of Content
-Description 
-Installation Requirement 
-Technology Used
-Authors Info 
-Contact information
-License
+1.Description 
+2.Installation Requirement 
+3.Technology Used
+4.Authors Info 
+5.Contact information
+6.License
 
 ## Description
 This is an application that identifies whether a given year is a leap year.
